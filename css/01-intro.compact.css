@@ -1,0 +1,5 @@
+div { color: #f00; background: #000; font-size: 50px; }
+
+div p { font-size: 50px; }
+
+div p span { font-size: 50px; }

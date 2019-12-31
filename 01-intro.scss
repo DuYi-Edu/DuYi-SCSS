@@ -1,0 +1,14 @@
+$font:50px;
+div{
+    color: #f00;
+    background: #000;
+    font-size: $font;
+
+    p{
+       font-size: $font; 
+
+       span{
+            font-size: $font; 
+       }
+    }
+}
